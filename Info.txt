@@ -1,0 +1,15 @@
+---Info---
+Pack By Vira
+Version 1
+---Credits---
+In this pack I have used other packs to put this together.
+
+---Vanilla+ 3D Crystal 1.21---
+- Armor Glint
+---Barebones PVP Overlay---
+- Totem Pop sound
+---VanillaTweaks---
+- GUI - Blue
+- Apple saturation bar
+- Font
+- Numbered hot bar
